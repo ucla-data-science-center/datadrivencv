@@ -1,7 +1,7 @@
 Package: datadrivencv
 Type: Package
 Title: Templates and helper functions for building a CV with spreadsheets
-Version: 0.1.0
+Version: 0.99.1
 URL: http://nickstrayer.me/datadrivencv, https://github.com/nstrayer/datadrivencv
 Author: Nick Strayer
 Maintainer: Nick Strayer <nick.strayer@gmail.com>
