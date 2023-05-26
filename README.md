@@ -14,7 +14,7 @@ The development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("chaochaowong/datadrivencv") #updated fork; fixed a few problems of the original repos
+devtools::install_github("ucla-data-science-center/datadrivencv") #updated fork; fixed a few problems of the original repos
 ```
 
 # Motivation
